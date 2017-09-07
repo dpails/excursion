@@ -18,3 +18,20 @@
 a{
   color:aquamarine;
 }
+
+.subheader{
+  font-weight: 300;
+  font-size: 42px;
+  color:white;
+}
+
+.benefits{
+  font-size: 21px;
+  color:gray;
+  font-weight:normal;
+}
+
+.copyright{
+  text-align:right;
+  color:grey;
+}
